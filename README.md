@@ -1,2 +1,7 @@
-# F23-Programming-Paradigms
-A personal repository to maintain tasks, assignments, and homeworks. 
+# Programming Paradigms - Fall 2023
+
+Course segments: 
+
+1. Functional programming with Racket
+2. Typed functional programming with Haskell
+3. Logic programming with miniKanren
